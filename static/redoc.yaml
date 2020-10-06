@@ -23,7 +23,7 @@ info:
 
 
 servers:
-  - url: /api/v1/
+  - url: /content_api/v1/
 
 tags:
   - name: REVIEWS
